@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "242309aaa7ba52bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "abf4e32198a7a492",
+        "type": "split",
+        "children": [
+          {
+            "id": "b68b1754bae5ca30",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb15c484263fcd0a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "创建链接.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "创建链接"
+                }
+              },
+              {
+                "id": "5e325d3ffb56bbba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "一些资料/各种api-key/ai-api-中转.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ai-api-中转"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "e865ff810c86f28c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "596a72a556361aa3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "一些资料/各种api-key/ai-api-中转.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "ai-api-中转 的出链列表"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a225aa94262fbac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc04dd093c7b827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6ec5c94b79c0c2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d103131ac39119c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c6b092ff928dc2a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "202afe967cb64fcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "88eb93a909125662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ccd7b74a682ebee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "5f3423980e6aec9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "一些资料/各种api-key/ai-api-中转.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ai-api-中转 的出链列表"
+            }
+          },
+          {
+            "id": "c66b9867d579cbac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "82c761cc41866cc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "一些资料/各种api-key/ai-api-中转.md"
+              },
+              "icon": "lucide-list",
+              "title": "ai-api-中转 的大纲"
+            }
+          },
+          {
+            "id": "5263f64ca227aae7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5e325d3ffb56bbba",
+  "lastOpenFiles": [
+    "创建链接.md",
+    "一些资料/各种api-key/ai-api-中转.md",
+    "欢迎.md",
+    "一些资料/各种api-key",
+    "一些资料",
+    "学习计划/编程基础/python/zip的用法.md",
+    "学习计划/编程基础/基础算法/二叉树遍历.md",
+    "一些思考记录",
+    "学习计划/编程基础/基础算法/新建 文本文档.txt",
+    "学习计划/编程基础/基础算法",
+    "学习计划/数学/线性代数/四个基本子空间.md",
+    "未命名.canvas",
+    "学习计划/数学/一些数学知识/皮亚诺算术.md",
+    "学习计划/编程基础/python/Python 中的进程、线程和协程.md",
+    "学习计划/数学/线性代数",
+    "_2.pdf",
+    "Notion/compile(pattern, flags=0).md",
+    "Notion/正则表达式.md",
+    "Notion/基本设计模式.md",
+    "Notion/深度学习基础.md",
+    "Notion/python深度学习.md",
+    "Notion/语言元素.md",
+    "Notion/Python基础.md",
+    "Notion/围城.md",
+    "Notion/Tips 2.md",
+    "Notion/Tis整理.md",
+    "Notion/UML类图几种关系的总结 - OPEN 开发经验库.md",
+    "Notion/奥迪项目介绍.md",
+    "Notion/奥迪互联互通.md",
+    "Notion/暗夜与黎明.md",
+    "Notion/12月11日.md",
+    "Notion/12月9日.md",
+    "Notion/12月8日.md",
+    "Notion/$(p).has(ahref)         --包含链接的段落.md",
+    "Untitled 1.png",
+    "Untitled 44.png",
+    "9738807-6304a0221a05d3c7.png",
+    "9738807-3198aaba4a6ddbc6.png",
+    "9738807-6b37320f910e1fb7.png",
+    "apiclient_cert.1604206888.p12",
+    "apiclient_cert.1564358821.p12",
+    "Untitled 43.png",
+    "_(1).xlsx",
+    "Untitled 42.png",
+    "Untitled 41.png",
+    "Untitled 40.png",
+    "Untitled 39.png"
+  ]
+}

@@ -1,0 +1,2 @@
+https://api.zhongzhuan.chat
+sk-gf7ynS3KzEfpSn4SavfKnrkWb4u0OXOo9UkW60dJr9BmqObU
