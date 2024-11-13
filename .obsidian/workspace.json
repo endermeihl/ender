@@ -10,21 +10,8 @@
           {
             "id": "b68b1754bae5ca30",
             "type": "tabs",
+            "dimension": 64.03508771929825,
             "children": [
-              {
-                "id": "cb15c484263fcd0a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "创建链接.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "创建链接"
-                }
-              },
               {
                 "id": "5e325d3ffb56bbba",
                 "type": "leaf",
@@ -38,13 +25,70 @@
                   "icon": "lucide-file",
                   "title": "ai-api-中转"
                 }
+              },
+              {
+                "id": "aa9a5dd8a6bdb045",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "学习计划/数学/线性代数/四个基本子空间.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "四个基本子空间"
+                }
+              },
+              {
+                "id": "5fe67fdeee243d80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工作记录/未命名.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "未命名"
+                }
+              },
+              {
+                "id": "9a48563f69c48896",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "绩效平台-2024-11-13修改要求"
+                }
+              },
+              {
+                "id": "23c271eaa206235c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "学习计划/数学/线性代数/方程组的几何解释.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "方程组的几何解释"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "e865ff810c86f28c",
             "type": "tabs",
+            "dimension": 35.96491228070175,
             "children": [
               {
                 "id": "596a72a556361aa3",
@@ -52,12 +96,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "一些资料/各种api-key/ai-api-中转.md",
+                    "file": "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md",
                     "linksCollapsed": true,
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-going-out",
-                  "title": "ai-api-中转 的出链列表"
+                  "title": "绩效平台-2024-11-13修改要求 的出链列表"
                 }
               }
             ]
@@ -153,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一些资料/各种api-key/ai-api-中转.md",
+                "file": "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ai-api-中转 的出链列表"
+              "title": "绩效平台-2024-11-13修改要求 的出链列表"
             }
           },
           {
@@ -180,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一些资料/各种api-key/ai-api-中转.md"
+                "file": "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md"
               },
               "icon": "lucide-list",
-              "title": "ai-api-中转 的大纲"
+              "title": "绩效平台-2024-11-13修改要求 的大纲"
             }
           },
           {
@@ -215,11 +259,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e325d3ffb56bbba",
+  "active": "e6ec5c94b79c0c2f",
   "lastOpenFiles": [
-    "创建链接.md",
+    "工作记录/光储充平台",
+    "工作记录/未命名.md",
+    "一些资料/md的一些应用/LaTeX中输入数学符号.md",
+    "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md",
+    "一些资料/md的一些应用",
+    "工作记录/绩效平台",
+    "学习计划/数学/线性代数/四个基本子空间.md",
+    "工作记录",
+    "学习计划/数学/线性代数/方程组的几何解释.md",
     "一些资料/各种api-key/ai-api-中转.md",
+    "创建链接.md",
     "欢迎.md",
+    "一些思考记录/AI的使用.md",
     "一些资料/各种api-key",
     "一些资料",
     "学习计划/编程基础/python/zip的用法.md",
@@ -227,7 +281,6 @@
     "一些思考记录",
     "学习计划/编程基础/基础算法/新建 文本文档.txt",
     "学习计划/编程基础/基础算法",
-    "学习计划/数学/线性代数/四个基本子空间.md",
     "未命名.canvas",
     "学习计划/数学/一些数学知识/皮亚诺算术.md",
     "学习计划/编程基础/python/Python 中的进程、线程和协程.md",
@@ -245,21 +298,12 @@
     "Notion/Tis整理.md",
     "Notion/UML类图几种关系的总结 - OPEN 开发经验库.md",
     "Notion/奥迪项目介绍.md",
-    "Notion/奥迪互联互通.md",
-    "Notion/暗夜与黎明.md",
-    "Notion/12月11日.md",
-    "Notion/12月9日.md",
-    "Notion/12月8日.md",
-    "Notion/$(p).has(ahref)         --包含链接的段落.md",
     "Untitled 1.png",
     "Untitled 44.png",
     "9738807-6304a0221a05d3c7.png",
     "9738807-3198aaba4a6ddbc6.png",
     "9738807-6b37320f910e1fb7.png",
-    "apiclient_cert.1604206888.p12",
-    "apiclient_cert.1564358821.p12",
     "Untitled 43.png",
-    "_(1).xlsx",
     "Untitled 42.png",
     "Untitled 41.png",
     "Untitled 40.png",
