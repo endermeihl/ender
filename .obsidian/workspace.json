@@ -41,31 +41,31 @@
                 }
               },
               {
-                "id": "5fe67fdeee243d80",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "工作记录/未命名.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "未命名"
-                }
-              },
-              {
                 "id": "9a48563f69c48896",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md",
+                    "file": "一些资料/md的一些应用/LaTeX中输入数学符号.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "绩效平台-2024-11-13修改要求"
+                  "title": "LaTeX中输入数学符号"
+                }
+              },
+              {
+                "id": "1b58ffaf5aa6b3b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "一些思考记录/佛教一些思考.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "佛教一些思考"
                 }
               },
               {
@@ -74,16 +74,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "学习计划/数学/线性代数/方程组的几何解释.md",
+                    "file": "工作记录/光储充平台/一些参考元素.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "方程组的几何解释"
+                  "title": "一些参考元素"
+                }
+              },
+              {
+                "id": "fca69412f6b7e129",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "一些资料/git/gitee的一些资料.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "gitee的一些资料"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 5
           },
           {
             "id": "e865ff810c86f28c",
@@ -96,12 +110,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md",
+                    "file": "一些资料/git/gitee的一些资料.md",
                     "linksCollapsed": true,
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-going-out",
-                  "title": "绩效平台-2024-11-13修改要求 的出链列表"
+                  "title": "gitee的一些资料 的出链列表"
                 }
               }
             ]
@@ -197,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md",
+                "file": "一些资料/md的一些应用/LaTeX中输入数学符号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "绩效平台-2024-11-13修改要求 的出链列表"
+              "title": "LaTeX中输入数学符号 的出链列表"
             }
           },
           {
@@ -224,10 +238,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md"
+                "file": "一些资料/md的一些应用/LaTeX中输入数学符号.md"
               },
               "icon": "lucide-list",
-              "title": "绩效平台-2024-11-13修改要求 的大纲"
+              "title": "LaTeX中输入数学符号 的大纲"
             }
           },
           {
@@ -259,18 +273,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6ec5c94b79c0c2f",
+  "active": "fca69412f6b7e129",
   "lastOpenFiles": [
-    "工作记录/光储充平台",
-    "工作记录/未命名.md",
-    "一些资料/md的一些应用/LaTeX中输入数学符号.md",
+    "一些资料/git/github的国内加速方案.md",
+    "一些资料/git/gitee的一些资料.md",
+    "一些资料/git/git常用命令.md",
+    "一些资料/各种api-key/ai-api-中转.md",
+    "小故事收集/历史典故/未命名.md",
+    "一些思考记录/学习的方式.md",
+    "小故事收集/未命名.md",
+    "小故事收集/历史典故",
+    "小故事收集",
+    "工作记录/光储充平台/一些参考元素.md",
+    "一些资料/git",
+    "工作记录/光储充平台/2024-11-14工作安排.md",
     "工作记录/绩效平台/绩效平台-2024-11-13修改要求.md",
+    "学习计划/数学/线性代数/方程组的几何解释.md",
+    "一些资料/md的一些应用/LaTeX中输入数学符号.md",
+    "一些思考记录/佛教一些思考.md",
+    "学习计划/机器学习/未命名.md",
+    "学习计划/机器学习",
+    "工作记录/未命名.md",
+    "工作记录/光储充平台",
     "一些资料/md的一些应用",
     "工作记录/绩效平台",
     "学习计划/数学/线性代数/四个基本子空间.md",
     "工作记录",
-    "学习计划/数学/线性代数/方程组的几何解释.md",
-    "一些资料/各种api-key/ai-api-中转.md",
     "创建链接.md",
     "欢迎.md",
     "一些思考记录/AI的使用.md",
@@ -278,26 +306,12 @@
     "一些资料",
     "学习计划/编程基础/python/zip的用法.md",
     "学习计划/编程基础/基础算法/二叉树遍历.md",
-    "一些思考记录",
-    "学习计划/编程基础/基础算法/新建 文本文档.txt",
-    "学习计划/编程基础/基础算法",
     "未命名.canvas",
     "学习计划/数学/一些数学知识/皮亚诺算术.md",
     "学习计划/编程基础/python/Python 中的进程、线程和协程.md",
-    "学习计划/数学/线性代数",
-    "_2.pdf",
     "Notion/compile(pattern, flags=0).md",
     "Notion/正则表达式.md",
     "Notion/基本设计模式.md",
-    "Notion/深度学习基础.md",
-    "Notion/python深度学习.md",
-    "Notion/语言元素.md",
-    "Notion/Python基础.md",
-    "Notion/围城.md",
-    "Notion/Tips 2.md",
-    "Notion/Tis整理.md",
-    "Notion/UML类图几种关系的总结 - OPEN 开发经验库.md",
-    "Notion/奥迪项目介绍.md",
     "Untitled 1.png",
     "Untitled 44.png",
     "9738807-6304a0221a05d3c7.png",

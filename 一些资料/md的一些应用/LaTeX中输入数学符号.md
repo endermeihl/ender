@@ -4,7 +4,7 @@
 
 - 加法：`+`
 - 减法：`-`
-- 乘法：`\times`（或`\cdot`用于点乘）
+- 乘法：`\times`（或`\cdot`用于点乘）$\times$
 - 除法：`\div` 或 `\frac{a}{b}`（分数）
 - 等于：`=`
 
@@ -34,9 +34,9 @@
 
 ### 6. 极限与导数
 
-- 极限：`\lim_{x \to \infty}`
-- 微分：`\frac{dy}{dx}`
-- 偏导数：`\frac{\partial y}{\partial x}`
+- 极限：`\lim_{x \to \infty}` $\lim_{x \to \infty}$
+- 微分：`\frac{dy}{dx}` $`\frac{dy}{dx}`$
+- 偏导数：`\frac{\partial y}{\partial x}` $\frac{\partial y}{\partial x}$
 
 ### 7. 常用希腊字母
 
@@ -50,25 +50,25 @@
 ### 8. 逻辑符号
 
 - 小于：`<`，大于：`>`
-- 小于等于：`\leq`，大于等于：`\geq`
-- 不等于：`\neq`
-- 并集：`\cup`
-- 交集：`\cap`
-- 属于：`\in`
-- 不属于：`\notin`
+- 小于等于：`\leq` $\leq$，大于等于：`\geq` $\geq$
+- 不等于：`\neq` $\neq$
+- 并集：`\cup` $\cup$
+- 交集：`\cap` $\cap$
+- 属于：`\in` $\in$
+- 不属于：`\notin` $\not\in$
 
 ### 9. 箭头和向量
 
-- 向量箭头：`\vec{v}`
-- 向左箭头：`\leftarrow`
-- 向右箭头：`\rightarrow`
-- 双向箭头：`\leftrightarrow`
+- 向量箭头：`\vec{v}` $\vec{v}$
+- 向左箭头：`\leftarrow` $\leftarrow$
+- 向右箭头：`\rightarrow` $\rightarrow$
+- 双向箭头：`\leftrightarrow` $\leftrightarrow$
 
 ### 10. 花体字母与其他符号
 
-- 花体字母：`\mathcal{A}`
-- 空集：`\emptyset`
-- 无穷大：`\infty`
+- 花体字母：`\mathcal{A}` $\mathcal{A}$
+- 空集：`\emptyset` $\{  \}$
+- 无穷大：`\infty` $\infty$
 
 ### 示例
 
